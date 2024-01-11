@@ -197,7 +197,7 @@ subs <- subs[which(subs$enrolled != '0'),]
   
   Bin.auc = performance(BinPreds, measure = "auc")
   Bin.auc@y.values # 0.6958099
-  ---------------------------------------------------------
+#---------------------------------------------------------
   
   
 #Comparative ROC Plot
