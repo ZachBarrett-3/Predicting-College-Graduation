@@ -1,0 +1,2 @@
+# Predicting College Graduation in SDSU Students
+This project utilizes a dataset provided by the SDSU admissions office, containing information on 350 students. Each student's admissions details, including high school GPA, ACT score, admission status, and enrollment date at SDSU, are included. The primary objective of this project is to predict whether a student will graduate from SDSU based on their admissions data.
